@@ -1,4 +1,4 @@
 # for testing git stuff on python code
 
-# first version
-print("hello world")
+# second version
+print("hello world, second version")
