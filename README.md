@@ -1,5 +1,5 @@
 # hello-world
 
-chris fixes 1
+- fixed python code to v2
 
 
