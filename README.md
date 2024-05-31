@@ -1,2 +1,2 @@
 # hello-world
-# I think I'm slowly getting the hand of the different things in Github
+# I think I'm slowly getting the hang of the different things in Github
